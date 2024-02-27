@@ -4,7 +4,7 @@ let minBox = document.getElementById("min-box");
 let secBox = document.getElementById("sec-box");
 //Format: Date(year, month, day, hour, minute)
 //Year is counter from 0 to 11
-let endDate = new Date(2024, 3, 6, 16, 30);
+let endDate = new Date(2024, 3, 6, 1, 30);
 
 
 //Output value in milliseconds
